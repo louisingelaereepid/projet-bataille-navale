@@ -1,0 +1,17 @@
+| BDD |
+Tables : Bateaux
+         Joueurs
+         Parties
+         Tirs
+         Scores
+
+| Code |
+Partie de 10 minutes
+5 bateaux
+Le joueur gagne après avoir coulé tous les bateaux ennemis
+Les deux joueurs perdent si la partie dure plus de 10 minutes
+Quand un joueur gagne, il gagne des points dans le tableau des scores de tous les joueurs
+3 minutes pour placer les bateaux et 7 minutes de jeu
+Particules d'explosion quand un bateau et toucher et couler
+
+
